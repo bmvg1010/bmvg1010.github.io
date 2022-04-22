@@ -3,7 +3,7 @@
 - **Nombre y apellidos**: _Berta Vallverdú Gordi_
 - **Correo electrónico**: _b.vallgo.10@gmail.com_
 - **Teléfono**: _123456789_
-- **Linkedin** [Link](url)
+- **Linkedin**: [Link](url)
 
 ## Perfil Profesional
 Estudiante de IFP Hospitalet, en el ámbito de Sistemas Microinformáticos y Redes.

@@ -14,3 +14,11 @@ el derecho
 
 ## Formación
 1. sep 2020 - Presente: IFP Hospitalet - Sistemas Microinformáticos y Redes
+2. sep 2019 - jun 2020: CETT - Técnico en Cocina - Gastronomía y Servicios de Restauración
+3. sep 2015 - jun 2019: Thau Barcelona - Educación Secundaria Obligatoria
+
+## Idiomas
+- Catalán - Nativo
+- Castellano - Nativo
+- Inglés - B1
+- Francés - A2

@@ -25,5 +25,5 @@ Actualmente estoy interesada en la animación 2D y 3D, por lo que apunto a un ci
 
 ##Proyectos
 - [Proyecto Flex](flex)
-- [Proyecto Liyue](liyue)
+- [Proyecto Columnas](columnas)
 - [Proyecto Nika](nika)

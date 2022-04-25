@@ -2,6 +2,7 @@
 ![Imagen](bvallverdu.jpg) 
 - **Nombre y apellidos**: _Berta Vallverdú Gordi_
 - **Correo electrónico**: _b.vallgo.10@gmail.com_
+- **Dirección**: _Avda. España_
 - **Teléfono**: _123456789_
 - **Linkedin**: _[Link](url)_
 

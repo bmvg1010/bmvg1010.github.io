@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: 'Montserrat', sans-serif;
+      color: #023859;
+    }
+  .columna p, h2 {
+    color: ghostwhite;
+  }
+
+    /* Cuatro columnas iguales que flotan una al lado de la otra*/
+    .columna {
+      float: left;
+      width: 25%;
+      padding: 20px;
+    }
+
+    /* Clear floats después de las columnas */
+
+    /* main:after {
+      content: "";
+      display: table;
+      clear: both;
+    } */
+
+    /* Inserta algo tras el contenido de main */
+    main::after {
+      clear: both;
+    }
+
+    
+
+    /* En pantallas iguales o menores a 992px, pasar de cuatro a dos columnas */
+    @media screen and (max-width: 992px) {
+      .columna {
+        width: 50%;
+      }
+    }
+
+    /* En pantallas menores o iguales a  600px, pasar a una columna  */
+    @media screen and (max-width: 600px) {
+      .columna {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<h1>Plantilla de cuatro columnas adaptativa</h1>
+<p><strong>Redimensdionar la ventana del navegador para ver el efecto.</strong> </p>
+<p>En pantallas iguales o menores a 992px, las columnas se redimensionan  de 4 a 2 columnas. </p>
+<p> En pantallas iguales o menores a 600px, las columnas se colocarán una bajo la anterior, no al lado.</p>
+
+<main>
+  <div class="columna" style="background-color: #025373;">
+    <h2>Column 1</h2>
+    <p>bla bla bla</p>
+  </div>
+  
+  <div class="columna" style="background-color:#0388A6;">
+    <h2>Column 2</h2>
+    <p>bla bla bla</p>
+  </div>
+  
+  <div class="columna" style="background-color:#0396A6;">
+    <h2>Column 3</h2>
+    <p>bla bla bla</p>
+  </div>
+  
+  <div class="columna" style="background-color:#05A6A6;">
+    <h2>Column 4</h2>
+    <p>bla bla bla</p>
+  </div>
+</main>
+</body>
+</html>

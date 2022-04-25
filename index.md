@@ -23,7 +23,7 @@ Actualmente estoy interesada en la animación 2D y 3D, por lo que apunto a un ci
 - Inglés - _B1_
 - Francés - _A2_
 
-##Proyectos
+## Proyectos
 - [Proyecto Flex](flex)
 - [Proyecto Columnas](columnas)
 - [Proyecto Nika](nika)
